@@ -1,5 +1,5 @@
-function multiply(a, b) {
+function multi(a, b) {
   return a * b;
 }
 
-console.log(multiply(5, 2)); 
+console.log(multi(5, 2)); 
